@@ -1,6 +1,8 @@
 
 ## Eva Matabosch 
-I am a Biomedical Engineer.
+Biomedical Enginer  interested in healthcare technology, biomedical data analysis, medical image processing, and reliable solutions for real clinical impact.
+
+## About me
 
 My path started with a scientific-technological baccalaureate, where I strengthened my interest in science, mathematics, and technology.
 
