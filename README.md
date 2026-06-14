@@ -1,11 +1,8 @@
 
-# Eva Matabosch 
-
+## Eva Matabosch 
 I am a Biomedical Engineer.
 
-## About me
-
-My path started with a scientific-technological baccalaureate, where I strengthened my interest in science, mathematics, and technology. That background led me to Biomedical Engineering, a field where I could connect technical problem-solving with healthcare and real human impact.
+My path started with a scientific-technological baccalaureate, where I strengthened my interest in science, mathematics, and technology.
 
 What drew me to Biomedical Engineering was a simple belief: healthcare deserves people who care about getting things right. Not for show, but because in this field, the difference always shows up when it matters.
 
