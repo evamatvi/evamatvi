@@ -14,7 +14,7 @@ I want to create healthcare solutions that do not just look good on paper, but t
 
 ## Technical background
 
-* Python, Java, MATLAB, C++
+* C++, Python, Java, MATLAB 
 * SQL and databases
 * Data analysis and machine learning
 * Medical image processing
