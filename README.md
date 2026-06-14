@@ -22,5 +22,5 @@ I want to create healthcare solutions that do not just look good on paper, but t
 ---
 ## Contact
 
-* LinkedIn: [(https://www.linkedin.com/in/eva-matabosch-vidal-05514b314/)]
+* Linkedin: [(https://www.linkedin.com/in/eva-matabosch-vidal-05514b314/)]
 
